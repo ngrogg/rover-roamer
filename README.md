@@ -19,5 +19,6 @@ Use S or the Down arrow key to burrow under obstacles
 To play this game HaxeFlixel must be installed.
 An in depth process of HaxeFlixel's installation can be found 
 [here](https://haxeflixel.com/documentation/getting-started/)
+
 This game was created and tested on a Lenovo T420 Thinkpad with Intel hardware 
 running Slackware 14.2.
