@@ -13,8 +13,11 @@ under while they fly over you and others need to be jumped over. The rover moves
 forward automatically, although players can speed up or slow down the rover.
 
 Use A/D or the Left/Right arrow keys to accelerate/decelerate 
+
 Use Space to jump
+
 Use S or the Down arrow key to burrow under obstacles
+
 
 To play this game HaxeFlixel must be installed.
 An in depth process of HaxeFlixel's installation can be found 
